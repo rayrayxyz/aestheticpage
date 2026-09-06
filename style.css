@@ -1,5 +1,5 @@
 body {
-    background-color: #222;
+    background-color: #black;
     color: white;
     font-family: monospace;
 }
@@ -7,7 +7,7 @@ body {
 h1 {
     text-align: center;
     font-size: 40px;
-    text-shadow: 0 0 10px pink;
+    text-shadow: 0 0 10px white;
 }
 p {
     text-align: center;

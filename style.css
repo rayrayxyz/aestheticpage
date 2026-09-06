@@ -24,6 +24,8 @@ p {
 
 .buttons {
     text-align: center;
+    background-color: black;
+    color: #39ff14;
     margin-top: 30px;
 }
 

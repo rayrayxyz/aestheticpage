@@ -16,7 +16,7 @@ p {
 }
 
 .box {
-    width: 350px;
+    width: 300px;
     margin: 50px auto;
     padding: 30px;
     background-color: #111;
@@ -27,7 +27,7 @@ p {
     margin-top: 24px;
     padding: 10px;
     border: 1px dashed #39ff14;
-    text-align: center;
+    text-align: left;
 }
 
 .clock span {
@@ -39,7 +39,7 @@ p {
 #clock {
     display: block;
     margin-top: 5px;
-    font-size: 20px;
+    font-size: 17px;
     text-shadow: 0 0 10px #39ff14;
 }
 

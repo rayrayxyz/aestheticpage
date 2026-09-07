@@ -11,12 +11,12 @@ h1 {
 }
 
 p {
-    text-align: center;
+    text-align: left;
     font-size: 15px;
 }
 
 .box {
-    width: 500px;
+    width: 350px;
     margin: 50px auto;
     padding: 30px;
     background-color: #111;
@@ -39,7 +39,7 @@ p {
 #clock {
     display: block;
     margin-top: 5px;
-    font-size: 28px;
+    font-size: 20px;
     text-shadow: 0 0 10px #39ff14;
 }
 

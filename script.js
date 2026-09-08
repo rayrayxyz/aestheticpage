@@ -11,13 +11,11 @@ function showHome() {
 function showAesthetics() {
     document.getElementById("content").innerHTML = `
         <h2>✧ AESTHETICS ✧</h2>
-        <p> grunge</p>
-        <p> angel</p>
-        <p> creepy</p>
-        <p> vocaloid</p>
-        <p> night</p>
-        <p> star★</p>
-        <p> Rain</p>
+
+        <button onclick="setTheme('grunge')">🖤 Grunge</button>
+        <button onclick="setTheme('fairy')">🧚 Fairy Grunge</button>
+        <button onclick="setTheme('rainy')">🌧️ Rainy</button>
+        <button onclick="setTheme('y2k')">💿 Y2K</button>
     `;
 }
 

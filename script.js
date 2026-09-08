@@ -13,9 +13,10 @@ function showAesthetics() {
         <h2>✧ AESTHETICS ✧</h2>
 
         <button onclick="setTheme('grunge')">🖤 Grunge</button>
-        <button onclick="setTheme('fairy')">🧚 Fairy Grunge</button>
         <button onclick="setTheme('rainy')">🌧️ Rainy</button>
-        <button onclick="setTheme('y2k')">💿 Y2K</button>
+        <button onclick="setTheme('monotone')">:\ Y2K</button>
+        <button onclick="setTheme('vocaloid')">💿\ Y2K</button>
+
     `;
 }
 

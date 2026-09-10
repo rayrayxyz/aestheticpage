@@ -68,3 +68,23 @@ font-family: monospace;
     font-family: monospace;
 }
 
+body.grunge {
+    background-color: #1a0f0f;
+    color: #ff6b6b;
+}
+
+body.rainy {
+    background-color: #101820;
+    color: #8fc9ff;
+}
+
+body.monotone {
+    background-color: #222;
+    color: white;
+}
+
+body.vocaloid {
+    background-color: #071a1a;
+    color: #39ffcc;
+}
+

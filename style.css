@@ -51,6 +51,10 @@ p {
 }
 
 button {
+    padding: 10px 20px;
+margin: 5px;
+font-family: monospace;
+    
     background-color: black;
     color: #39ff14;
     border: 1px solid #39ff14;

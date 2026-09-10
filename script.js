@@ -15,8 +15,8 @@ function showAesthetics() {
 
         <button onclick="setTheme('grunge')">🖤 Grunge</button>
         <button onclick="setTheme('rainy')">🌧️ Rainy</button>
-        <button onclick="setTheme('monotone')">:\ monotone</button>
-        <button onclick="setTheme('vocaloid')">💿\ vocaloid</button>
+        <button onclick="setTheme('monotone')">: monotone</button>
+        <button onclick="setTheme('vocaloid')">💿 vocaloid</button>
 
     `;
 }

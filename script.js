@@ -20,6 +20,10 @@ function showAesthetics() {
 
     `;
 }
+
+function setTheme(theme) {
+    document.body.className = theme;
+}
 function updateClock() {
     const now = new Date();
 
